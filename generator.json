@@ -1,0 +1,12 @@
+{
+"database" : "Azuredatabricks",
+"schema" : "test_dbt",
+"odbc_datasource" : "databricks_cluster",
+  "dbt_data" : "dbt_final_demo",
+  "select_table_names": [],
+  "dbt_file_path":  "C:/Users/u1146922/",
+  "model_list_name" : "sales_test",
+  "generate_default_schema" : true,
+  "place_holder_columns" : ["extend1"]
+
+}
